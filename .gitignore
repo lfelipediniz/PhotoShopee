@@ -1,0 +1,56 @@
+# Python virtualenvs & bytecode
+**/venv/
+**/.venv/
+venv/
+.venv/
+# optional names at repo root only (avoids ignoring src/env etc.)
+/env/
+/ENV/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Node
+**/node_modules/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build / tooling
+.turbo/
+.next/
+out/
+.cache/
+.vite/
+**/.vite/
+.wrangler/
+**/.wrangler/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.idea/
+*.swp
+*.swo
+*~
