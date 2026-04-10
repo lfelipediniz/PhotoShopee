@@ -1,7 +1,7 @@
 """
 Nome: Luiz Felipe Diniz Costa
 USP: 13782032
-Curso: SCC0251/SCC0651 - Processamento de Imagens
+Curso: SCC0251 - Processamento de Imagens
 Semestre: 2025/1
 Título: PhotoShopee - Módulo de Processamento de Imagens
 
