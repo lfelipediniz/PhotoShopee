@@ -8,7 +8,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-- API: `http://localhost:8000` — health: `GET /health`, processamento: `POST /process`
+- API: `http://localhost:8000` - health: `GET /health`, processamento: `POST /process`
 
 ## Frontend 
 
